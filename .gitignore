@@ -1,0 +1,4 @@
+# 渲染产物（每期视频几千张截图，别传仓库）
+output/render_frames/
+output/*/render_frames/
+__pycache__/

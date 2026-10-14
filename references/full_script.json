@@ -1,0 +1,237 @@
+{
+  "video_info": {
+    "title": "第3课-什么人适合做FDE",
+    "series": "AI醒觉社 FDE系列",
+    "episode": "第3课",
+    "subtitle_label": "★深度解析",
+    "resolution": "2400x3200",
+    "aspect_ratio": "3:4",
+    "fps": 25,
+    "duration": 46.32,
+    "ip_name": "AI酋长Andy",
+    "ip_slogan": "AI共生，利人利己"
+  },
+  "design_system": {
+    "background": "linear-gradient(135deg, #0A0F1A, #0F172A)",
+    "colors": {
+      "cyan": "#00D4AA",
+      "blue": "#3B82F6",
+      "purple": "#A855F7",
+      "orange": "#F59E0B",
+      "green": "#22C55E",
+      "red_pink": "#FF6B6B",
+      "white": "#FFFFFF",
+      "dark_card": "#1E293B",
+      "gray_text": "#94A3B8"
+    },
+    "font": "Noto Sans SC, PingFang SC, sans-serif",
+    "progress_bar": "linear-gradient(90deg, #00D4AA, #F59E0B)",
+    "bottom_card_bg": "#FFFFFF",
+    "bottom_card_text": "#1F2937",
+    "card_border_radius": "16px",
+    "pill_badge_radius": "999px"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "name": "开场-什么人适合做FDE",
+      "start_time": 0.0,
+      "end_time": 4.5,
+      "duration": 4.5,
+      "top_right": "AI醒觉社 FDE系列 | 第3课 ★深度解析",
+      "label_tag": "能力模型剖析",
+      "label_tag_color": "#00D4AA",
+      "main_title": "什么人适合做FDE?",
+      "subtitle": {
+        "text": "技术与情商的完美结合",
+        "colors": ["#00D4AA", "#00B4D8", "#FFD700"]
+      },
+      "sub_desc": "拒绝刻板印象，找到你的职业锚点",
+      "icon_matrix": [
+        {"icon": "</>", "color": "#00D4AA", "label": "技术"},
+        {"icon": "person", "color": "#22C55E", "label": "协作"},
+        {"icon": "briefcase", "color": "#F59E0B", "label": "业务"},
+        {"icon": "dna", "color": "#A855F7", "label": "创新"}
+      ],
+      "bottom_card": "很多人以为做FDE要么得是八面玲珑的交际花，要么得是卷底层算法的大神，其实这全是偏见。",
+      "tts_text": "很多人以为做FDE要么得是八面玲珑的交际花，要么得是卷底层算法的大神，其实这全是偏见。",
+      "tts_start": 0.0,
+      "tts_end": 5.6
+    },
+    {
+      "id": 2,
+      "name": "刻板印象vs现实",
+      "start_time": 4.5,
+      "end_time": 10.8,
+      "duration": 6.3,
+      "top_right": "AI醒觉社 FDE系列 | 第3课 ★深度解析",
+      "label_tag": "STEREOTYPE VS REALITY",
+      "label_tag_color": "#8B1E3F",
+      "main_title": "关于FDE的两大刻板印象",
+      "left_card": {
+        "title": "偏见一：纯技术宅",
+        "icon_color": "#3B82F6",
+        "items": [
+          "每天戴着耳机只写代码",
+          "极致追求底层的算法大神",
+          "完全不想和客户说话"
+        ]
+      },
+      "center_card": {
+        "title": "真正的FDE",
+        "subtitle": "(前线部署工程师)",
+        "content": "不需要是算法造物主，也不用是社交花蝴蝶。真正需要的是：用扎实技术解决商业问题的\"务实派\"。",
+        "highlight_text": "用扎实技术解决商业问题",
+        "border_color": "#00D4AA",
+        "glow": true
+      },
+      "bottom_card": "FDE不需要你社牛，也不需要你写造轮子的底层代码，它真正需要的是'用技术解决商业问题'的务实派。",
+      "tts_text": "FDE不需要你社牛，也不需要你写造轮子的底层代码，它真正需要的是用技术解决商业问题的务实派。",
+      "tts_start": 6.1,
+      "tts_end": 11.8
+    },
+    {
+      "id": 3,
+      "name": "FDE黄金技能模型60-30-10",
+      "start_time": 10.8,
+      "end_time": 20.4,
+      "duration": 9.6,
+      "top_right": "AI醒觉社 FDE系列 | 第3课 ★深度解析",
+      "label_tag": "The 6-3-1 Model",
+      "label_tag_color": "#1E3A5F",
+      "main_title": "FDE黄金技能模型：60-30-10",
+      "skill_bars": [
+        {
+          "name": "技术硬实力",
+          "percentage": 60,
+          "color": "#00D4AA",
+          "icon": "</>",
+          "desc": "扎实的计算机基础、网络/系统排错能力、快速学习新轮子"
+        },
+        {
+          "name": "沟通与翻译力",
+          "percentage": 30,
+          "color": "#A855F7",
+          "icon": "chat",
+          "desc": "能把复杂的报错翻译成客户听得懂的\"人话\"，控制预期"
+        },
+        {
+          "name": "商业嗅觉",
+          "percentage": 10,
+          "color": "#F59E0B",
+          "icon": "chart",
+          "desc": "明白客户买系统是为了赚什么钱/省什么钱，抓住二次增购机会"
+        }
+      ],
+      "bottom_card": "一个顶尖FDE的能力模型是\"631\"：60%扎实的技术排错力，30%把技术翻译成业务的沟通力，和10%抓增购机会的商业嗅觉。",
+      "tts_text": "一个顶尖FDE的能力模型是631，60%扎实的技术排错力，30%把技术翻译成业务的沟通力，和10%抓增购机会的商业嗅觉。",
+      "tts_start": 12.4,
+      "tts_end": 21.2
+    },
+    {
+      "id": 4,
+      "name": "性格诊断-你适合吗",
+      "start_time": 20.4,
+      "end_time": 28.3,
+      "duration": 7.9,
+      "top_right": "AI醒觉社 FDE系列 | 第3课 ★深度解析",
+      "label_tag": "Traits Checklist",
+      "label_tag_color": "#22C55E",
+      "main_title": "性格诊断：你适合吗？",
+      "left_card": {
+        "title": "天选FDE体质",
+        "color": "#00D4AA",
+        "icon": "check_circle",
+        "items": [
+          {"title": "结果导向的\"折腾狂\"", "desc": "享受解决棘手Bug的爽感", "icon": "wrench"},
+          {"title": "抗压与救火队长", "desc": "现场突发报错能稳住", "icon": "shield"},
+          {"title": "喜欢变化与出差", "desc": "厌倦固定工位，向往客户前线", "icon": "plane"}
+        ]
+      },
+      "right_card": {
+        "title": "建议避坑体质",
+        "color": "#FF6B6B",
+        "icon": "cancel",
+        "items": [
+          {"title": "重度\"技术洁癖\"", "desc": "只想专注底层架构，厌恶业务逻辑", "icon": "code"},
+          {"title": "严重社交恐惧", "desc": "讨厌被打断，抵触客户开会汇报", "icon": "ban"},
+          {"title": "绝对的作息稳定派", "desc": "追求朝九晚五，无法接受熬夜发版", "icon": "clock"}
+        ]
+      },
+      "bottom_card": "相比追求代码极其优雅的技术洁癖，喜欢折腾、能抗压救火、享受帮客户拿到结果的多面手，天生就是吃这碗饭的。",
+      "tts_text": "相比追求代码极其优雅的技术洁癖，喜欢折腾，能抗压救火，享受帮客户拿到结果的多面手，天生就是吃这碗饭的。",
+      "tts_start": 21.8,
+      "tts_end": 28.9
+    },
+    {
+      "id": 5,
+      "name": "转型路径-哪类人最容易",
+      "start_time": 28.3,
+      "end_time": 36.9,
+      "duration": 8.6,
+      "top_right": "AI醒觉社 FDE系列 | 第3课 ★深度解析",
+      "label_tag": "Career Shift",
+      "label_tag_color": "#1E3A5F",
+      "main_title": "哪类人转型最容易成功？",
+      "transition_cards": [
+        {
+          "from": "开发 (Dev) 转型",
+          "icon": "</>",
+          "color": "#3B82F6",
+          "advantage": "懂底层，看Log快，改Bug准",
+          "need_fix": "走出代码视角，学习用商业价值说服客户"
+        },
+        {
+          "from": "运维 (Ops) 转型",
+          "icon": "server",
+          "color": "#10B981",
+          "advantage": "极强的系统诊断能力，抗压救火老手",
+          "need_fix": "从只对机器负责，转向对人的期望和情绪负责"
+        },
+        {
+          "from": "售前/交付 转型",
+          "icon": "presentation",
+          "color": "#A855F7",
+          "advantage": "极懂客户心理，沟通能力拉满，懂业务",
+          "need_fix": "需要狠狠恶补技术深度，不能只懂PPT不懂代码"
+        }
+      ],
+      "bottom_card": "无论你是想跳出CRUD舒适区的开发，还是想走向前台的运维，只要补齐沟通和商业短板，FDE就是你弯道超车的最佳跳板。",
+      "tts_text": "无论你是想跳出CRUD舒适区的开发，还是想走向前台的运维，只要补齐沟通和商业短板，FDE就是你弯道超车的最佳跳板。",
+      "tts_start": 29.5,
+      "tts_end": 37.5
+    },
+    {
+      "id": 6,
+      "name": "价值宣言-收尾",
+      "start_time": 36.9,
+      "end_time": 46.3,
+      "duration": 9.4,
+      "top_right": "AI酋长Andy | 智领日记",
+      "brand_label": "TECH·IMPACT",
+      "brand_color": "#22D3EE",
+      "main_quote": "FDE绝不是技术不够好才去做的选择，它是为那些厌倦了在温室造轮子，想去炮火连天的前线，亲自见证技术改变现实的人准备的。",
+      "quote_colors": ["#FFFFFF", "#00D4AA", "#00D4AA"],
+      "sub_quote": "把代码，变成真金白银的交付。",
+      "bottom_card": "记住，FDE的价值不在于代码写多优雅，而在于能把技术化为真金白银的交付！我是AI酋长Andy，AI共生，利人利己。",
+      "tts_text": "记住，FDE的价值不在于代码写多优雅，而在于能把技术化为真金白银的交付，我是AI酋长Andy，AI共生，利人利己。",
+      "tts_start": 38.0,
+      "tts_end": 45.6
+    }
+  ],
+  "tts_segments": [
+    {"id": "s1", "text": "很多人以为做FDE要么得是八面玲珑的交际花，要么得是卷底层算法的大神，其实这全是偏见。", "start": 0.0, "end": 5.6},
+    {"id": "s2", "text": "FDE不需要你社牛，也不需要你写造轮子的底层代码，它真正需要的是用技术解决商业问题的务实派。", "start": 6.1, "end": 11.8},
+    {"id": "s3", "text": "一个顶尖FDE的能力模型是631，60%扎实的技术排错力，30%把技术翻译成业务的沟通力，和10%抓增购机会的商业嗅觉。", "start": 12.4, "end": 21.2},
+    {"id": "s4", "text": "相比追求代码极其优雅的技术洁癖，喜欢折腾，能抗压救火，享受帮客户拿到结果的多面手，天生就是吃这碗饭的。", "start": 21.8, "end": 28.9},
+    {"id": "s5", "text": "无论你是想跳出CRUD舒适区的开发，还是想走向前台的运维，只要补齐沟通和商业短板，FDE就是你弯道超车的最佳跳板。", "start": 29.5, "end": 37.5},
+    {"id": "s6", "text": "记住，FDE的价值不在于代码写多优雅，而在于能把技术化为真金白银的交付，我是AI酋长Andy，AI共生，利人利己。", "start": 38.0, "end": 45.6}
+  ],
+  "scene_transitions": [
+    {"time": 4.5, "type": "hard_cut", "silence_gap": 0.5},
+    {"time": 10.8, "type": "hard_cut", "silence_gap": 0.6},
+    {"time": 20.4, "type": "hard_cut", "silence_gap": 0.6},
+    {"time": 28.3, "type": "hard_cut", "silence_gap": 0.6},
+    {"time": 36.9, "type": "hard_cut", "silence_gap": 0.5}
+  ]
+}
